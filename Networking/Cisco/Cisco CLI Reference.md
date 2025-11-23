@@ -126,6 +126,6 @@
 - **Foundation for CCNA/CCNP labs**: These are the building blocks for Cisco certifications.
 - **Real-world troubleshooting**: Commands like `ping`, `show running-config`, and `traceroute` are essential for diagnosing network issues.
 - **Device management**: Without commands like `copy running-config startup-config`, changes would be lost after a reboot.
-- **Scalable configuration**: `interface range` and macros let you configure dozens of ports in seconds — perfect for classroom labs, club demos, and real-world switch setups.
+- **Scalable configuration**: `interface range` and macros let you configure dozens of ports in seconds,  perfect for classroom labs, club demos, and real-world switch setups.
 - **Advanced scenarios**: Routing protocols, ACLs, NAT, and DHCP are critical for simulating enterprise networks and preparing for certification exams.
 
